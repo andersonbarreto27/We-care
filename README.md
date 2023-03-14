@@ -6,13 +6,13 @@
   
  <br>
   
-<h2>Nele eu usei as seguintes tecnologias :<h2/>
+<h2>Nele eu apliquei as seguintes tecnologias :<h2/>
   <br>
   <img src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white" />
   <br>
   <img src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white" />
   
-  <h2>descrição<h2/>
+  <h2>descrição :<h2/>
     
    <br>
     

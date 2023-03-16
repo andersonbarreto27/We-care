@@ -16,7 +16,7 @@
     
    <br>
     
-    <P>Neste projeto aprendi toda a estrula do HTML,deis do head até body,também tive o conhecimento de
+    <P>Neste projeto aprendi toda a estrutura do HTML,deis do head até body,também tive o conhecimento de
     usar o HTML semantico,aonde tive a visão mais espandida e organizada,pegando a base completa de onde
     usar div e onde usar HTML semantico.Após vim com os conhecimentos de CSS,aplicando cor,tamanho e vida
     ao site,usando a base de um site que eu ja tinha feito,más este foi com a minha propria criatividade,
